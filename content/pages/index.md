@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: First gen.
-    subtitle: ibrahim
+    subtitle: Ibrahim
     styles:
       self:
         height: auto
