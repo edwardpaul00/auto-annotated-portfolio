@@ -85,7 +85,7 @@ sections:
       title: Title of the form
       fields:
         - type: EmailFormControl
-          name: email
+          name: firstgen.co
           label: Name
           hideLabel: false
           placeholder: Your email
