@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: First gen.
-    subtitle: Ibrahim
+    subtitle: 'Ibrahim, abdul, miller, eddo'
     styles:
       self:
         height: auto
