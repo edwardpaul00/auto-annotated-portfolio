@@ -86,7 +86,7 @@ sections:
       fields:
         - type: EmailFormControl
           name: firstgen.co
-          label: firstgen
+          label: first
           hideLabel: false
           placeholder: Your email
           width: full
